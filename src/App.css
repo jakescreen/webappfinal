@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: #005DFF;
 }
 
 .App-logo {
@@ -19,4 +20,7 @@
 
 .App-link {
   color: #09d3ac;
+}
+ul#lisy{
+  display: inline-block;
 }
